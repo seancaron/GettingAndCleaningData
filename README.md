@@ -39,7 +39,7 @@ Create a R script called run_analysis() that does the following
 
 Please see the `run_analysis.R` script for the R code to implement each of the project steps, defined above. The function is availble [here](https://github.com/seancaron/GettingAndCleaningData/blob/master/run_analysis.R).  
 
-A “pseudo code” description of the activities performed follows.
+A “pseudo code” description of the activities performed follows  
 
 Set-up functions  
 
