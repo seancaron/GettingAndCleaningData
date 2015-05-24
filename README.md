@@ -9,12 +9,13 @@ The purpose of this project is to demonstrate the ability to download, merge, an
 ##Activities to be done:
 The project activities are provided in the “Getting and Cleaning Data” Course Project description at https://class.coursera.org/getdata-014/human_grading/view/courses/973501/assessments/3/submissions
 
-Create a R script called run_analysis() that does the following:
+Create a R script called run_analysis() that does the following
+
 1. Merges the training and the test sets to create one data set.
-1. Extract only the measurements on the mean and standard deviation for each measurement.
-1. Use descriptive activity names to name the activities in the data set
-1. Appropriately label the data set with descriptive variable names.
-1. Create a second, independent tidy data set with the average of each variable for each activity and each subject.
+2. Extract only the measurements on the mean and standard deviation for each measurement.
+3. Use descriptive activity names to name the activities in the data set
+4. Appropriately label the data set with descriptive variable names.
+5. Create a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 
 ##Hardware: 
